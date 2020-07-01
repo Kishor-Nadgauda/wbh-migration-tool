@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30204.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PRGX.Panoptic-Migration-Core", "wbh-migration-tool\PRGX.Panoptic-Migration-Core.csproj", "{4BE96D12-E337-4C0C-80E1-211EC9954212}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Pst", "Pst\Pst.csproj", "{0D500938-0272-4622-A2F6-AF9875F7EB4D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4BE96D12-E337-4C0C-80E1-211EC9954212}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4BE96D12-E337-4C0C-80E1-211EC9954212}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4BE96D12-E337-4C0C-80E1-211EC9954212}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4BE96D12-E337-4C0C-80E1-211EC9954212}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0D500938-0272-4622-A2F6-AF9875F7EB4D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D500938-0272-4622-A2F6-AF9875F7EB4D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D500938-0272-4622-A2F6-AF9875F7EB4D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D500938-0272-4622-A2F6-AF9875F7EB4D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {124486DB-2EA7-4CF8-B1E4-B020F1B7F002}
+	EndGlobalSection
+EndGlobal
